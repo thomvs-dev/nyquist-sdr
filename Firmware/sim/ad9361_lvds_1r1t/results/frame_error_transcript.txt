@@ -1,0 +1,27 @@
+VCD info: dumpfile F:\SDR\nyquist-sdr\Firmware\sim\ad9361_lvds_1r1t\results\frame_error.vcd opened for output.
+============================================================
+NYQUIST SDR AD9361 1R1T DDR LVDS INTERFACE SIMULATION
+Wire order per complex sample: Ihi, Qhi, Ilo, Qlo
+Frame pattern: 1, 1, 0, 0
+Fault injection enabled: 1
+============================================================
+SAMPLE 00 RX I=100 Q=e00 PACK=1000e000 | TX I=300 Q=c00
+SAMPLE 01 RX I=101 Q=e01 PACK=1010e010 | TX I=301 Q=c01
+SAMPLE 02 RX I=102 Q=e02 PACK=1020e020 | TX I=302 Q=c02
+SAMPLE 03 RX I=103 Q=e03 PACK=1030e030 | TX I=303 Q=c03
+SAMPLE 04 RX I=104 Q=e04 PACK=1040e040 | TX I=304 Q=c04
+SAMPLE 05 RX I=105 Q=e05 PACK=1050e050 | TX I=305 Q=c05
+SAMPLE 06 RX I=106 Q=e06 PACK=1060e060 | TX I=306 Q=c06
+SAMPLE 07 RX I=107 Q=e07 PACK=1070e070 | TX I=307 Q=c07
+SAMPLE 08 RX I=108 Q=e08 PACK=1080e080 | TX I=308 Q=c08
+SAMPLE 09 RX I=109 Q=e09 PACK=1090e090 | TX I=309 Q=c09
+SAMPLE 10 RX I=10a Q=e0a PACK=10a0e0a0 | TX I=30a Q=c0a
+SAMPLE 11 RX I=10b Q=e0b PACK=10b0e0b0 | TX I=30b Q=c0b
+SAMPLE 12 RX I=10c Q=e0c PACK=10c0e0c0 | TX I=30c Q=c0c
+SAMPLE 13 RX I=10d Q=e0d PACK=10d0e0d0 | TX I=30d Q=c0d
+SAMPLE 14 RX I=10e Q=e0e PACK=10e0e0e0 | TX I=30e Q=c0e
+SAMPLE 15 RX I=10f Q=e0f PACK=10f0e0f0 | TX I=30f Q=c0f
+FAULT-INJECTION PASS: deliberate frame error detected
+SIM PASS: RX/TX DDR serialization, frame timing, differential complements,
+          I/Q reconstruction and UHD 32-bit packing all verified.
+F:\SDR\nyquist-sdr\Firmware\sim\ad9361_lvds_1r1t\tb\tb_nyquist_ad9361_lvds_1r1t.sv:238: $finish called at 662000 (1ps)

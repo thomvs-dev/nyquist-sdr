@@ -1,6 +1,6 @@
 (ExpressProject "USRP"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/23/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/31/26]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -25,24 +25,70 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (Folder "Logs")
   (MPSSessionName "idk")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (LT8645SHV-2#PBF
+      (FullPartName "LT8645SHV-2#PBF.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1788120109\LT8645SHV-2#PBF.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DCJ200-10-A-K1-K
+      (FullPartName "DCJ200-10-A-K1-K.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1788114371\ORCADCAPTUREXML\2073-DCJ200-10-A-K1-K-ND.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources"))
+      (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn")
+      (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1")
+      (Select "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1"
+         "PAGE2"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 765")
-        (Scroll "-358 -12")
-        (Zoom "95")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
+        (Scroll "1309 1409")
+        (Zoom "264")
         (Occurrence "/"))
-      (Path "D:\USRP\USRP.DSN")
+      (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
+        (Scroll "-141 67")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_25.1\tools\capture\library\pspice"))

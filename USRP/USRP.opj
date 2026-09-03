@@ -1,6 +1,6 @@
 (ExpressProject "USRP"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[08/31/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[09/03/26]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -31,6 +31,11 @@
       (LibraryName
          "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -39,18 +44,31 @@
       (LibraryName
          "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LM61460AFSQRJRRQ1
+      (FullPartName "LM61460AFSQRJRRQ1.Normal")
       (LibraryName
-         "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1788243841\LM61460AFSQRJRRQ1.OLB")
+      (DeviceIndex "0"))
+    (LM61460AANRJRR
+      (FullPartName "LM61460AANRJRR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1788239907\ORCADCAPTUREXML\296-LM61460AANRJRRTR-ND.OLB")
+      (DeviceIndex "0"))
+    (TPS62913RPUR
+      (FullPartName "TPS62913RPUR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1788160918\ORCADCAPTUREXML\296-TPS62913RPURTR-ND.OLB")
       (DeviceIndex "0"))
     (LT8645SHV-2#PBF
       (FullPartName "LT8645SHV-2#PBF.Normal")
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1788120109\LT8645SHV-2#PBF.OLB")
-      (DeviceIndex "0"))
-    (0
-      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (DCJ200-10-A-K1-K
       (FullPartName "DCJ200-10-A-K1-K.Normal")
@@ -63,19 +81,19 @@
       (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn")
       (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1")
       (Select "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1"
-         "PAGE2"))
+         "PAGE3"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 207 0 747"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
-        (Scroll "1309 1409")
-        (Zoom "264")
+        (Placement "44 0 1 -1 -1 5 24 5 1386 24 765")
+        (Scroll "-214 -12")
+        (Zoom "95")
         (Occurrence "/"))
       (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
       (Schematic "SCHEMATIC1")
@@ -83,12 +101,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 549")
-        (Scroll "-141 67")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 5 24 5 1386 24 765")
+        (Scroll "-104 0")
+        (Zoom "75")
         (Occurrence "/"))
       (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE2")))
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1386 24 765")
+        (Scroll "-184 0")
+        (Zoom "101")
+        (Occurrence "/"))
+      (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE3")))
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\OrCADX_25.1\tools\capture\library\pspice"))

@@ -1,0 +1,137 @@
+\t (00:00:03) allegro 25.1 S030 (4414069) [3/25/2026] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Sep  4 15:32:13 2026
+\t (00:00:03)         Host=DESKTOP-JOR43I8 User=idk Pid=18708 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession idk -proj d:\nyquist-sdr\usrp\usrp.opj D:/nyquist-sdr/USRP/allegro/usrp.brd
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged usrp
+\d (00:00:04) Design opened: D:/nyquist-sdr/USRP/allegro/usrp.brd
+\i (00:00:05) trapsize 15719
+\i (00:00:05) trapsize 16588
+\i (00:00:05) trapsize 15719
+\i (00:00:05) trapsize 25000
+\t (00:00:05) > Sending response DoneOpenBoard
+\i (00:00:05) trapsize 19374
+\i (00:00:05) updateport SearchPane
+\i (00:00:05) generaledit 
+\i (00:00:10) trapsize 12444
+\i (00:00:12) pick grid 4579.43 12095.68
+\t (00:00:12) last pick:  4600.00 12100.00
+\i (00:00:13) drag_start grid 3932.34 11846.80
+\i (00:00:14) drag_stop 10229.06 6346.50
+\i (00:00:24) pick grid 6296.72 12245.01
+\t (00:00:24) last pick:  6300.00 12200.00
+\i (00:00:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:29) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:30) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:30) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:30) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:30) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:30) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:31) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 3
+\i (00:00:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 3
+\i (00:00:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 1 3
+\i (00:00:32) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 1 3
+\i (00:00:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 1 3
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 1 4
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 1 4
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:35) QtSignal ADTableContainerWidget ComponentsTable doubleClicked 0 4
+\i (00:00:37) pick grid 11523.25 3359.91
+\t (00:00:37) last pick:  11500.00 3400.00
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:37) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:39) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:40) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:42) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:44) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:00:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 0 4
+\i (00:01:09) exit 
+\e (00:01:09) Do you want to save the changes you made to usrp.brd?
+\i (00:01:11) fillin no 
+\t (00:01:12) Lic Summary:
+[15:33:22.290746] Cdslmd servers:C:\Users\idk\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[15:33:22.815625] Feature usage summary:
+[15:33:22.815625] OrCAD_X_PCB_Professional_Plus  
+[15:33:22.815626] OrCAD_X_Professional_Plus  
+\t (00:01:12)     Journal end - Fri Sep  4 15:33:22 2026

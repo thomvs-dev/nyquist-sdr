@@ -1,0 +1,1186 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 25.1.0 d001Sep-04-2026 at 15:32:07 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='USRP';
+ POST_TIME='Mar 25 2026 22:25:38';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C10 'C_CAP196_0U47':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS5955@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins5955@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins5955@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,160)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,160,360,180)',
+ SECTION='';
+
+PART_NAME
+ C11 'C_CAP196_1U@16V':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS6007@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins6007@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins6007@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(340,130,350,150)',
+ SECTION='';
+
+PART_NAME
+ C12 'C_CAP196_100N@10V+':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS6357@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins6357@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins6357@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,250,170,270)',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAP196_1N':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS6927@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins6927@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins6927@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(70,150,80,170)',
+ SECTION='';
+
+PART_NAME
+ C14 'C_CAP196_47U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7480@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7480@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7480@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,200,530,210)',
+ SECTION='';
+
+PART_NAME
+ C15 'C_CAP196_47U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7506@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7506@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7506@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,200,580,210)',
+ SECTION='';
+
+PART_NAME
+ C16 'C_CAP196_47U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7532@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7532@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7532@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,200,630,210)',
+ SECTION='';
+
+PART_NAME
+ C17 'C_CAP196_33P':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7909@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7909@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7909@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,260)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(700,260,720,270)',
+ SECTION='';
+
+PART_NAME
+ C18 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS8011@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins8011@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins8011@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,110)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(150,110,170,120)',
+ SECTION='';
+
+PART_NAME
+ C19 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS8067@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins8067@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins8067@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,110)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,110,390,120)',
+ SECTION='';
+
+PART_NAME
+ C20 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS8534@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins8534@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins8534@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,100)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(100,100,120,110)',
+ SECTION='';
+
+PART_NAME
+ C21 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS8654@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins8654@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins8654@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,100)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(470,100,490,110)',
+ SECTION='';
+
+PART_NAME
+ C22 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9783@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9783@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9783@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,410)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(100,410,120,420)',
+ SECTION='';
+
+PART_NAME
+ C23 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9807@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9807@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9807@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,410)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(470,410,490,420)',
+ SECTION='';
+
+PART_NAME
+ C24 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9839@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9839@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9839@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(150,420,170,430)',
+ SECTION='';
+
+PART_NAME
+ C25 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9855@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9855@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9855@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,420,390,430)',
+ SECTION='';
+
+PART_NAME
+ C26 'C_CAP196_1U@16V':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9911@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9911@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9911@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,440)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(340,440,350,460)',
+ SECTION='';
+
+PART_NAME
+ C27 'C_CAP196_1N':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9967@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9967@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9967@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,460)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(70,460,80,480)',
+ SECTION='';
+
+PART_NAME
+ C28 'C_CAP196_0U47':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10019@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10019@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10019@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,470)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,470,360,490)',
+ SECTION='';
+
+PART_NAME
+ C29 'C_CAP196_47U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10167@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10167@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10167@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,510)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,510,530,520)',
+ SECTION='';
+
+PART_NAME
+ C30 'C_CAP196_47U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10183@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10183@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10183@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,510)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,510,580,520)',
+ SECTION='';
+
+PART_NAME
+ C31 'C_CAP196_47U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10199@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10199@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10199@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,510)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,510,630,520)',
+ SECTION='';
+
+PART_NAME
+ C32 'C_CAP196_100N@10V+':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10303@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10303@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10303@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,560,170,580)',
+ SECTION='';
+
+PART_NAME
+ C33 'C_CAP196_33P':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10355@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10355@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10355@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,570)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(700,570,720,580)',
+ SECTION='';
+
+PART_NAME
+ C34 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS11972@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins11972@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins11972@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(90,700,110,710)',
+ SECTION='';
+
+PART_NAME
+ C35 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS11996@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins11996@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins11996@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(460,700,480,710)',
+ SECTION='';
+
+PART_NAME
+ C36 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12028@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12028@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12028@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,710)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(140,710,160,720)',
+ SECTION='';
+
+PART_NAME
+ C37 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12044@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12044@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12044@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,710)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(360,710,380,720)',
+ SECTION='';
+
+PART_NAME
+ C38 'C_CAP196_1U@16V':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12100@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12100@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12100@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,730)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,730,340,750)',
+ SECTION='';
+
+PART_NAME
+ C39 'C_CAP196_1N':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12156@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12156@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12156@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,750)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,750,70,770)',
+ SECTION='';
+
+PART_NAME
+ C40 'C_CAP196_0U47':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12208@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12208@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12208@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,760)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(340,760,350,780)',
+ SECTION='';
+
+PART_NAME
+ C41 'C_CAP196_10U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12356@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12356@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12356@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,800)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(500,800,520,810)',
+ SECTION='';
+
+PART_NAME
+ C42 'C_CAP196_10U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12372@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12372@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12372@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,800)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,800,570,810)',
+ SECTION='';
+
+PART_NAME
+ C43 'C_CAP196_10U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12388@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12388@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12388@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,800)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(600,800,620,810)',
+ SECTION='';
+
+PART_NAME
+ C44 'C_CAP196_100N@10V+':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12492@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12492@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12492@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,850,160,870)',
+ SECTION='';
+
+PART_NAME
+ C45 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19534@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19534@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19534@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,80)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(870,80,890,90)',
+ SECTION='';
+
+PART_NAME
+ C46 'C_CAP196_4U7':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19558@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19558@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19558@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,80)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1240,80,1260,90)',
+ SECTION='';
+
+PART_NAME
+ C47 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19590@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19590@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19590@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,90)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(920,90,940,100)',
+ SECTION='';
+
+PART_NAME
+ C48 'C_CAP196_100N@50V@X7R':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19606@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19606@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19606@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,90)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,90,1160,100)',
+ SECTION='';
+
+PART_NAME
+ C49 'C_CAP196_1U@16V':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19662@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19662@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19662@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,110,1120,130)',
+ SECTION='';
+
+PART_NAME
+ C50 'C_CAP196_1N':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19718@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19718@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19718@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(840,130,850,150)',
+ SECTION='';
+
+PART_NAME
+ C51 'C_CAP196_0U47':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19770@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19770@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19770@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,140)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,140,1130,160)',
+ SECTION='';
+
+PART_NAME
+ C52 'C_CAP196_10U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19910@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19910@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19910@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,180)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1280,180,1300,190)',
+ SECTION='';
+
+PART_NAME
+ C53 'C_CAP196_10U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19926@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19926@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19926@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1330,180)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1330,180,1350,190)',
+ SECTION='';
+
+PART_NAME
+ C54 'C_CAP196_10U':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19942@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19942@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19942@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,180)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1380,180,1400,190)',
+ SECTION='';
+
+PART_NAME
+ C55 'C_CAP196_100N@10V+':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS20030@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins20030@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins20030@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,230)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(930,230,940,250)',
+ SECTION='';
+
+PART_NAME
+ C56 'C_CAP196_33P':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS20815@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins20815@analog.\c.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins20815@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1470,220,1490,230)',
+ SECTION='';
+
+PART_NAME
+ IC1 'LT8645SIV#PBF_LT8645SIVPBF_LT8645SIV#PBF':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS22656@LT8645SIV#PBF.LT8645SIV#PBF.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins22656@\lt8645siv#pbf\.\lt8645siv#pbf.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins22656@\lt8645siv#pbf\.\lt8645siv#pbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,290,480,490)',
+ SECTION='';
+
+PART_NAME
+ J1 'DCJ200-10-A-K1-K_CONN3_DCJ200-10-A-K1-K_GCT_CONN3_DCJ200-10-A-K1-K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS42@2073-DCJ200-10-A-K1-K-ND.DCJ200-10-A-K1-K.NORMAL(SCH_1)':
+ C_PATH='@usrp.schematic1(sch_1):ins42@\2073-dcj200-10-a-k1-k-nd\.\dcj200-10-a-k1-k.normal\(sch_1)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins42@\2073-dcj200-10-a-k1-k-nd\.\dcj200-10-a-k1-k.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,120)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(70,120,100,150)',
+ SECTION='';
+
+PART_NAME
+ L2 'L_DISC350X175LS200X100034_2U2':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7435@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7435@analog.\l.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7435@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,170)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,170,500,190)',
+ SECTION='';
+
+PART_NAME
+ L3 'L_DISC350X175LS200X100034_2U2':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10059@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10059@analog.\l.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10059@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,480)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,480,500,500)',
+ SECTION='';
+
+PART_NAME
+ L4 'L_DISC350X175LS200X100034_1U5':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12248@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12248@analog.\l.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12248@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,770)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,770,490,790)',
+ SECTION='';
+
+PART_NAME
+ L5 'L_DISC350X175LS200X100034_1U5':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19810@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19810@analog.\l.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19810@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,150,1270,170)',
+ SECTION='';
+
+PART_NAME
+ R10 'R_AXRC05_0_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS8750@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins8750@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins8750@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,110,70,130)',
+ SECTION='';
+
+PART_NAME
+ R11 'R_AXRC05_0_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9823@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9823@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9823@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,420)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(50,420,70,440)',
+ SECTION='';
+
+PART_NAME
+ R12 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9991@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9991@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9991@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,460)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,460,530,480)',
+ SECTION='';
+
+PART_NAME
+ R13 'R_AXRC05_26K5@1%':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10131@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10131@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10131@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,510)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(80,510,100,530)',
+ SECTION='';
+
+PART_NAME
+ R14 'R_AXRC05_100_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10215@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10215@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10215@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,520)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(160,520,180,540)',
+ SECTION='';
+
+PART_NAME
+ R15 'R_AXRC05_100K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10247@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10247@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10247@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(650,530,670,550)',
+ SECTION='';
+
+PART_NAME
+ R16 'R_AXRC05_1K_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10263@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10263@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10263@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,530)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(700,530,720,550)',
+ SECTION='';
+
+PART_NAME
+ R17 'R_AXRC05_125K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS10383@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins10383@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins10383@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,600)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(650,600,670,620)',
+ SECTION='';
+
+PART_NAME
+ R18 'R_AXRC05_0_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12012@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12012@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12012@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(40,710,60,730)',
+ SECTION='';
+
+PART_NAME
+ R19 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12180@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12180@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12180@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,750)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(500,750,520,770)',
+ SECTION='';
+
+PART_NAME
+ R20 'R_AXRC05_26K5@1%':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12320@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12320@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12320@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,800)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(70,800,90,820)',
+ SECTION='';
+
+PART_NAME
+ R21 'R_AXRC05_100_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12404@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12404@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12404@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(150,810,170,830)',
+ SECTION='';
+
+PART_NAME
+ R22 'R_AXRC05_100K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS12436@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins12436@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins12436@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,820)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,820,660,840)',
+ SECTION='';
+
+PART_NAME
+ R23 'R_AXRC05_0_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19574@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19574@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19574@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,90,840,110)',
+ SECTION='';
+
+PART_NAME
+ R24 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19742@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19742@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19742@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1280,130,1300,150)',
+ SECTION='';
+
+PART_NAME
+ R25 'R_AXRC05_26K5@1%':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19874@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19874@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19874@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,180)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,180,870,200)',
+ SECTION='';
+
+PART_NAME
+ R26 'R_AXRC05_100_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19958@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19958@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19958@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,190)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(930,190,950,210)',
+ SECTION='';
+
+PART_NAME
+ R27 'R_AXRC05_100K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19990@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19990@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19990@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,200)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1420,200,1440,220)',
+ SECTION='';
+
+PART_NAME
+ R28 'R_AXRC05_333K34':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS20566@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins20566@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins20566@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,250)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1420,250,1440,270)',
+ SECTION='';
+
+PART_NAME
+ R29 'R_AXRC05_1K_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS20799@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins20799@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins20799@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,180)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1470,180,1490,200)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_AXRC05_26K5@1%':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS6047@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins6047@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins6047@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,200)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(80,200,100,220)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_AXRC05_100_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS6127@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins6127@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins6127@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,210)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(160,210,180,230)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7586@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7586@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7586@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,150,530,170)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_AXRC05_100K':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7670@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7670@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7670@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(650,220,670,240)',
+ SECTION='';
+
+PART_NAME
+ R8 'R_AXRC05_43K5':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7686@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7686@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7686@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,290)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(650,290,670,310)',
+ SECTION='';
+
+PART_NAME
+ R9 'R_AXRC05_1K_DNP':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS7860@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins7860@analog.\r.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins7860@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,220)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(700,220,720,240)',
+ SECTION='';
+
+PART_NAME
+ U2 'TPS62913RPUR_RPU0010A-MFG_TPS62913RPU':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS13763@296-TPS62913RPURTR-ND.TPS62913RPUR.NORMAL(SCH_1)':
+ C_PATH='@usrp.schematic1(sch_1):ins13763@\296-tps62913rpurtr-nd\.\tps62913rpur.normal\(sch_1)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins13763@\296-tps62913rpurtr-nd\.\tps62913rpur.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(80,90,220,220)',
+ SECTION='';
+
+PART_NAME
+ U4 'LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS5386@LM61460AFSQRJRRQ1.LM61460AFSQRJRRQ1.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins5386@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins5386@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,90,310,240)',
+ SECTION='';
+
+PART_NAME
+ U5 'LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS9731@LM61460AFSQRJRRQ1.LM61460AFSQRJRRQ1.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins9731@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins9731@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,400,310,550)',
+ SECTION='';
+
+PART_NAME
+ U6 'LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS11920@LM61460AFSQRJRRQ1.LM61460AFSQRJRRQ1.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins11920@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins11920@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(200,690,300,840)',
+ SECTION='';
+
+PART_NAME
+ U7 'LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR':;
+
+SECTION_NUMBER 1
+ '@USRP.SCHEMATIC1(SCH_1):INS19482@LM61460AFSQRJRRQ1.LM61460AFSQRJRRQ1.NORMAL(CHIPS)':
+ C_PATH='@usrp.schematic1(sch_1):ins19482@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ P_PATH='@usrp.schematic1(sch_1):page1_ins19482@lm61460afsqrjrrq1.\lm61460afsqrjrrq1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,70)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(980,70,1080,220)',
+ SECTION='';
+
+END.

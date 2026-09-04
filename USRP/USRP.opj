@@ -1,6 +1,6 @@
 (ExpressProject "USRP"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[09/03/26]")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[09/05/26]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -11,9 +11,24 @@
     (File ".\usrp.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
-  (Folder "Layout")
-  (Folder "Outputs")
+    (CompileFileAddedOrDeleted "x")
+    ("Allegro Netlist Output Board File" ".\allegro\usrp.brd"))
+  (Folder "Layout"
+    (File ".\allegro\usrp.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\usrp.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"
@@ -23,9 +38,28 @@
     (Folder "Include Files"
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
-  (Folder "Logs")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "d:\nyquist-sdr\usrp\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "d:\nyquist-sdr\usrp\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "d:\nyquist-sdr\usrp\allegro\eco.txt")))
   (MPSSessionName "idk")
   (PartMRUSelector
+    (TPS7A5201RPSR
+      (FullPartName "TPS7A5201RPSR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1788557212\TPS7A5201RPSR.OLB")
+      (DeviceIndex "0"))
+    (LT8645SIV#PBF
+      (FullPartName "LT8645SIV#PBF.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1788516084\LT8645SIV#PBF\CAPTURE\LT8645SIV#PBF.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName
@@ -80,20 +114,21 @@
       (Path "Design Resources")
       (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn")
       (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1")
-      (Select "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1"
-         "PAGE3"))
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 207 0 747"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 753"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1386 24 765")
-        (Scroll "-214 -12")
-        (Zoom "95")
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 771")
+        (Scroll "-348 -8")
+        (Zoom "97")
         (Occurrence "/"))
       (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
       (Schematic "SCHEMATIC1")
@@ -101,9 +136,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1386 24 765")
-        (Scroll "-104 0")
-        (Zoom "75")
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 771")
+        (Scroll "-264 -3")
+        (Zoom "73")
         (Occurrence "/"))
       (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
       (Schematic "SCHEMATIC1")
@@ -111,9 +146,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1386 24 765")
-        (Scroll "-184 0")
-        (Zoom "101")
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 771")
+        (Scroll "-271 -8")
+        (Zoom "72")
         (Occurrence "/"))
       (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
       (Schematic "SCHEMATIC1")

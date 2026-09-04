@@ -1,0 +1,1180 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  1V0          pins ADDED TO this new net
+                                 C41.2          C42.2          C43.2          
+                                 C52.2          C53.2          C54.2          
+                                 L4.2           L5.2           R19.2          
+                                 R22.2          R24.2          R27.2          
+                                 R29.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  1V8          pins ADDED TO this new net
+                                 C29.2          C30.2          C31.2          
+                                 L3.2           R12.2          R15.2          
+                                 R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3V3          pins ADDED TO this new net
+                                 C10.1          C14.2          C15.2          
+                                 C16.2          L2.2           R6.2           
+                                 R7.2           R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins ADDED TO this new net
+                                 C18.2          C19.2          C20.2          
+                                 C21.2          C22.2          C23.2          
+                                 C24.2          C25.2          C34.2          
+                                 C35.2          C36.2          C37.2          
+                                 C45.2          C46.2          C47.2          
+                                 C48.2          R10.1          R11.1          
+                                 R18.1          R23.1          U4.8           
+                                 U4.12          U5.8           U5.12          
+                                 U6.8           U6.12          U7.8           
+                                 U7.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  12V          pins ADDED TO this new net
+                                 J1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  0            pins ADDED TO this new net
+                                 C11.2          C14.1          C15.1          
+                                 C16.1          C18.1          C19.1          
+                                 C20.1          C21.1          C22.1          
+                                 C23.1          C24.1          C25.1          
+                                 C26.2          C28.1          C29.1          
+                                 C30.1          C31.1          C34.1          
+                                 C35.1          C36.1          C37.1          
+                                 C38.2          C40.1          C41.1          
+                                 C42.1          C43.1          C45.1          
+                                 C46.1          C47.1          C48.1          
+                                 C49.2          C51.1          C52.1          
+                                 C53.1          C54.1          J1.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R4.1           R8.1           R13.1          
+                                 R17.1          R20.1          R25.1          
+                                 R28.1          U4.3           U4.9           
+                                 U4.11          U5.3           U5.9           
+                                 U5.11          U6.3           U6.9           
+                                 U6.11          U7.3           U7.9           
+                                 U7.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CBOOT_SW     pins ADDED TO this new net
+                                 C12.2          C32.2          C44.2          
+                                 C55.2          L2.1           L3.1           
+                                 L4.1           L5.1           U4.10          
+                                 U5.10          U6.10          U7.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FB1          pins ADDED TO this new net
+                                 C17.1          R7.1           R8.2           
+                                 U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FB2          pins ADDED TO this new net
+                                 C33.1          R15.1          R17.2          
+                                 U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FB3          pins ADDED TO this new net
+                                 R22.1          U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FB4          pins ADDED TO this new net
+                                 C56.1          R27.1          R28.2          
+                                 U7.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05971       pins ADDED TO this new net
+                                 C10.2          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06063       pins ADDED TO this new net
+                                 R4.2           U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06267       pins ADDED TO this new net
+                                 R5.1           U4.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06274       pins ADDED TO this new net
+                                 C12.1          R5.2           U4.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06974       pins ADDED TO this new net
+                                 C13.2          R10.2          U4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07602       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R6.1           U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09873       pins ADDED TO this new net
+                                 C27.2          R11.2          U5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10017       pins ADDED TO this new net
+                                 R12.1          U5.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10045       pins ADDED TO this new net
+                                 R13.2          U5.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10053       pins ADDED TO this new net
+                                 C28.2          U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10149       pins ADDED TO this new net
+                                 C32.1          R14.2          U5.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10233       pins ADDED TO this new net
+                                 R14.1          U5.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12062       pins ADDED TO this new net
+                                 C39.2          R18.2          U6.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12206       pins ADDED TO this new net
+                                 R19.1          U6.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12234       pins ADDED TO this new net
+                                 R20.2          U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12242       pins ADDED TO this new net
+                                 C40.2          U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12338       pins ADDED TO this new net
+                                 C44.1          R21.2          U6.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12422       pins ADDED TO this new net
+                                 R21.1          U6.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19624       pins ADDED TO this new net
+                                 C50.2          R23.2          U7.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19768       pins ADDED TO this new net
+                                 R24.1          U7.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19796       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R25.2          U7.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19804       pins ADDED TO this new net
+                                 C51.2          U7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19892       pins ADDED TO this new net
+                                 C55.1          R26.2          U7.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19976       pins ADDED TO this new net
+                                 R26.1          U7.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N054201      pins ADDED TO this new net
+                                 C11.1          U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N078701      pins ADDED TO this new net
+                                 C17.2          R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N097651      pins ADDED TO this new net
+                                 C26.1          U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N102731      pins ADDED TO this new net
+                                 C33.2          R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N119541      pins ADDED TO this new net
+                                 C38.1          U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N195161      pins ADDED TO this new net
+                                 C49.1          U7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N208091      pins ADDED TO this new net
+                                 C56.2          R29.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_CLK      pins ADDED TO this new net
+                                 C13.1          C27.1          C39.1          
+                                 C50.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGND         pins ADDED TO this new net
+                                 U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 U2.6           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C_CAP196_0U47
+ C_CAP196_1N
+ C_CAP196_1U@16V
+ C_CAP196_4U7
+ C_CAP196_10U
+ C_CAP196_33P
+ C_CAP196_47U
+ C_CAP196_100N@10V+
+ C_CAP196_100N@50V@X7R
+ DCJ200-10-A-K1-K_CONN3_DCJ200-10-A-K1-K_GCT_CONN3_DCJ200-10-A-K1-K
+ LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR
+ LT8645SIV#PBF_LT8645SIVPBF_LT8645SIV#PBF
+ L_DISC350X175LS200X100034_1U5
+ L_DISC350X175LS200X100034_2U2
+ R_AXRC05_0_DNP
+ R_AXRC05_1K_DNP
+ R_AXRC05_10K
+ R_AXRC05_26K5@1%
+ R_AXRC05_43K5
+ R_AXRC05_100K
+ R_AXRC05_100_DNP
+ R_AXRC05_125K
+ R_AXRC05_333K34
+ TPS62913RPUR_RPU0010A-MFG_TPS62913RPU
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C10                 C_CAP196_0U47         
+ C11                 C_CAP196_1U@16V       
+ C12                 C_CAP196_100N@10V+    
+ C13                 C_CAP196_1N           
+ C14                 C_CAP196_47U          
+ C15                 C_CAP196_47U          
+ C16                 C_CAP196_47U          
+ C17                 C_CAP196_33P          
+ C18                 C_CAP196_100N@50V@X7R 
+ C19                 C_CAP196_100N@50V@X7R 
+ C20                 C_CAP196_4U7          
+ C21                 C_CAP196_4U7          
+ C22                 C_CAP196_4U7          
+ C23                 C_CAP196_4U7          
+ C24                 C_CAP196_100N@50V@X7R 
+ C25                 C_CAP196_100N@50V@X7R 
+ C26                 C_CAP196_1U@16V       
+ C27                 C_CAP196_1N           
+ C28                 C_CAP196_0U47         
+ C29                 C_CAP196_47U          
+ C30                 C_CAP196_47U          
+ C31                 C_CAP196_47U          
+ C32                 C_CAP196_100N@10V+    
+ C33                 C_CAP196_33P          
+ C34                 C_CAP196_4U7          
+ C35                 C_CAP196_4U7          
+ C36                 C_CAP196_100N@50V@X7R 
+ C37                 C_CAP196_100N@50V@X7R 
+ C38                 C_CAP196_1U@16V       
+ C39                 C_CAP196_1N           
+ C40                 C_CAP196_0U47         
+ C41                 C_CAP196_10U          
+ C42                 C_CAP196_10U          
+ C43                 C_CAP196_10U          
+ C44                 C_CAP196_100N@10V+    
+ C45                 C_CAP196_4U7          
+ C46                 C_CAP196_4U7          
+ C47                 C_CAP196_100N@50V@X7R 
+ C48                 C_CAP196_100N@50V@X7R 
+ C49                 C_CAP196_1U@16V       
+ C50                 C_CAP196_1N           
+ C51                 C_CAP196_0U47         
+ C52                 C_CAP196_10U          
+ C53                 C_CAP196_10U          
+ C54                 C_CAP196_10U          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C55                 C_CAP196_100N@10V+    
+ C56                 C_CAP196_33P          
+ IC1                 LT8645SIV#PBF_LT8645SIVPBF_LT8645SIV#PBF 
+ J1                  DCJ200-10-A-K1-K_CONN3_DCJ200-10-A-K1-K_GCT_CONN3_DCJ200-10-A-K1-K 
+ L2                  L_DISC350X175LS200X100034_2U2 
+ L3                  L_DISC350X175LS200X100034_2U2 
+ L4                  L_DISC350X175LS200X100034_1U5 
+ L5                  L_DISC350X175LS200X100034_1U5 
+ R4                  R_AXRC05_26K5@1%      
+ R5                  R_AXRC05_100_DNP      
+ R6                  R_AXRC05_10K          
+ R7                  R_AXRC05_100K         
+ R8                  R_AXRC05_43K5         
+ R9                  R_AXRC05_1K_DNP       
+ R10                 R_AXRC05_0_DNP        
+ R11                 R_AXRC05_0_DNP        
+ R12                 R_AXRC05_10K          
+ R13                 R_AXRC05_26K5@1%      
+ R14                 R_AXRC05_100_DNP      
+ R15                 R_AXRC05_100K         
+ R16                 R_AXRC05_1K_DNP       
+ R17                 R_AXRC05_125K         
+ R18                 R_AXRC05_0_DNP        
+ R19                 R_AXRC05_10K          
+ R20                 R_AXRC05_26K5@1%      
+ R21                 R_AXRC05_100_DNP      
+ R22                 R_AXRC05_100K         
+ R23                 R_AXRC05_0_DNP        
+ R24                 R_AXRC05_10K          
+ R25                 R_AXRC05_26K5@1%      
+ R26                 R_AXRC05_100_DNP      
+ R27                 R_AXRC05_100K         
+ R28                 R_AXRC05_333K34       
+ R29                 R_AXRC05_1K_DNP       
+ U2                  TPS62913RPUR_RPU0010A-MFG_TPS62913RPU 
+ U4                  LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR 
+ U5                  LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR 
+ U6                  LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR 
+ U7                  LM61460AFSQRJRRQ1_IC_LM61460AFSQRJRRQ1_LM61460AFSQRJRR 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C10.2                          SCH_BBOX       (350,160,360,180)
+ C10.2                          SCH_MIRROR     (0)
+ C10.2                          SCH_ORIENT     (180)
+ C10.2                          XY             (350,160)
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          SCH_BBOX       (340,130,350,150)
+ C11.2                          SCH_MIRROR     (0)
+ C11.2                          SCH_ORIENT     (0)
+ C11.2                          XY             (340,130)
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          SCH_BBOX       (160,250,170,270)
+ C12.2                          SCH_MIRROR     (0)
+ C12.2                          SCH_ORIENT     (0)
+ C12.2                          XY             (160,250)
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          SCH_BBOX       (70,150,80,170)
+ C13.2                          SCH_MIRROR     (0)
+ C13.2                          SCH_ORIENT     (0)
+ C13.2                          XY             (70,150)
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          SCH_BBOX       (510,200,530,210)
+ C14.2                          SCH_MIRROR     (0)
+ C14.2                          SCH_ORIENT     (90)
+ C14.2                          XY             (510,200)
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          SCH_BBOX       (560,200,580,210)
+ C15.2                          SCH_MIRROR     (0)
+ C15.2                          SCH_ORIENT     (90)
+ C15.2                          XY             (560,200)
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          SCH_BBOX       (610,200,630,210)
+ C16.2                          SCH_MIRROR     (0)
+ C16.2                          SCH_ORIENT     (90)
+ C16.2                          XY             (610,200)
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          SCH_BBOX       (700,260,720,270)
+ C17.2                          SCH_MIRROR     (0)
+ C17.2                          SCH_ORIENT     (90)
+ C17.2                          XY             (700,260)
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          SCH_BBOX       (150,110,170,120)
+ C18.2                          SCH_MIRROR     (1)
+ C18.2                          SCH_ORIENT     (270)
+ C18.2                          XY             (150,110)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          SCH_BBOX       (370,110,390,120)
+ C19.2                          SCH_MIRROR     (0)
+ C19.2                          SCH_ORIENT     (90)
+ C19.2                          XY             (370,110)
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          SCH_BBOX       (100,100,120,110)
+ C20.2                          SCH_MIRROR     (1)
+ C20.2                          SCH_ORIENT     (270)
+ C20.2                          XY             (100,100)
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          SCH_BBOX       (470,100,490,110)
+ C21.2                          SCH_MIRROR     (1)
+ C21.2                          SCH_ORIENT     (270)
+ C21.2                          XY             (470,100)
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          SCH_BBOX       (100,410,120,420)
+ C22.2                          SCH_MIRROR     (1)
+ C22.2                          SCH_ORIENT     (270)
+ C22.2                          XY             (100,410)
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          SCH_BBOX       (470,410,490,420)
+ C23.2                          SCH_MIRROR     (1)
+ C23.2                          SCH_ORIENT     (270)
+ C23.2                          XY             (470,410)
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          SCH_BBOX       (150,420,170,430)
+ C24.2                          SCH_MIRROR     (1)
+ C24.2                          SCH_ORIENT     (270)
+ C24.2                          XY             (150,420)
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          SCH_BBOX       (370,420,390,430)
+ C25.2                          SCH_MIRROR     (0)
+ C25.2                          SCH_ORIENT     (90)
+ C25.2                          XY             (370,420)
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          SCH_BBOX       (340,440,350,460)
+ C26.2                          SCH_MIRROR     (0)
+ C26.2                          SCH_ORIENT     (0)
+ C26.2                          XY             (340,440)
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          SCH_BBOX       (70,460,80,480)
+ C27.2                          SCH_MIRROR     (0)
+ C27.2                          SCH_ORIENT     (0)
+ C27.2                          XY             (70,460)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          SCH_BBOX       (350,470,360,490)
+ C28.2                          SCH_MIRROR     (0)
+ C28.2                          SCH_ORIENT     (180)
+ C28.2                          XY             (350,470)
+ C29.2                          PRIM_FILE      .\pstchip.dat
+ C29.2                          SCH_BBOX       (510,510,530,520)
+ C29.2                          SCH_MIRROR     (0)
+ C29.2                          SCH_ORIENT     (90)
+ C29.2                          XY             (510,510)
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          SCH_BBOX       (560,510,580,520)
+ C30.2                          SCH_MIRROR     (0)
+ C30.2                          SCH_ORIENT     (90)
+ C30.2                          XY             (560,510)
+ C31.2                          PRIM_FILE      .\pstchip.dat
+ C31.2                          SCH_BBOX       (610,510,630,520)
+ C31.2                          SCH_MIRROR     (0)
+ C31.2                          SCH_ORIENT     (90)
+ C31.2                          XY             (610,510)
+ C32.2                          PRIM_FILE      .\pstchip.dat
+ C32.2                          SCH_BBOX       (160,560,170,580)
+ C32.2                          SCH_MIRROR     (0)
+ C32.2                          SCH_ORIENT     (0)
+ C32.2                          XY             (160,560)
+ C33.2                          PRIM_FILE      .\pstchip.dat
+ C33.2                          SCH_BBOX       (700,570,720,580)
+ C33.2                          SCH_MIRROR     (0)
+ C33.2                          SCH_ORIENT     (90)
+ C33.2                          XY             (700,570)
+ C34.2                          PRIM_FILE      .\pstchip.dat
+ C34.2                          SCH_BBOX       (90,700,110,710)
+ C34.2                          SCH_MIRROR     (1)
+ C34.2                          SCH_ORIENT     (270)
+ C34.2                          XY             (90,700)
+ C35.2                          PRIM_FILE      .\pstchip.dat
+ C35.2                          SCH_BBOX       (460,700,480,710)
+ C35.2                          SCH_MIRROR     (1)
+ C35.2                          SCH_ORIENT     (270)
+ C35.2                          XY             (460,700)
+ C36.2                          PRIM_FILE      .\pstchip.dat
+ C36.2                          SCH_BBOX       (140,710,160,720)
+ C36.2                          SCH_MIRROR     (1)
+ C36.2                          SCH_ORIENT     (270)
+ C36.2                          XY             (140,710)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C37.2                          PRIM_FILE      .\pstchip.dat
+ C37.2                          SCH_BBOX       (360,710,380,720)
+ C37.2                          SCH_MIRROR     (0)
+ C37.2                          SCH_ORIENT     (90)
+ C37.2                          XY             (360,710)
+ C38.2                          PRIM_FILE      .\pstchip.dat
+ C38.2                          SCH_BBOX       (330,730,340,750)
+ C38.2                          SCH_MIRROR     (0)
+ C38.2                          SCH_ORIENT     (0)
+ C38.2                          XY             (330,730)
+ C39.2                          PRIM_FILE      .\pstchip.dat
+ C39.2                          SCH_BBOX       (60,750,70,770)
+ C39.2                          SCH_MIRROR     (0)
+ C39.2                          SCH_ORIENT     (0)
+ C39.2                          XY             (60,750)
+ C40.2                          PRIM_FILE      .\pstchip.dat
+ C40.2                          SCH_BBOX       (340,760,350,780)
+ C40.2                          SCH_MIRROR     (0)
+ C40.2                          SCH_ORIENT     (180)
+ C40.2                          XY             (340,760)
+ C41.2                          PRIM_FILE      .\pstchip.dat
+ C41.2                          SCH_BBOX       (500,800,520,810)
+ C41.2                          SCH_MIRROR     (0)
+ C41.2                          SCH_ORIENT     (90)
+ C41.2                          XY             (500,800)
+ C42.2                          PRIM_FILE      .\pstchip.dat
+ C42.2                          SCH_BBOX       (550,800,570,810)
+ C42.2                          SCH_MIRROR     (0)
+ C42.2                          SCH_ORIENT     (90)
+ C42.2                          XY             (550,800)
+ C43.2                          PRIM_FILE      .\pstchip.dat
+ C43.2                          SCH_BBOX       (600,800,620,810)
+ C43.2                          SCH_MIRROR     (0)
+ C43.2                          SCH_ORIENT     (90)
+ C43.2                          XY             (600,800)
+ C44.2                          PRIM_FILE      .\pstchip.dat
+ C44.2                          SCH_BBOX       (150,850,160,870)
+ C44.2                          SCH_MIRROR     (0)
+ C44.2                          SCH_ORIENT     (0)
+ C44.2                          XY             (150,850)
+ C45.2                          PRIM_FILE      .\pstchip.dat
+ C45.2                          SCH_BBOX       (870,80,890,90)
+ C45.2                          SCH_MIRROR     (1)
+ C45.2                          SCH_ORIENT     (270)
+ C45.2                          XY             (870,80)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C46.2                          PRIM_FILE      .\pstchip.dat
+ C46.2                          SCH_BBOX       (1240,80,1260,90)
+ C46.2                          SCH_MIRROR     (1)
+ C46.2                          SCH_ORIENT     (270)
+ C46.2                          XY             (1240,80)
+ C47.2                          PRIM_FILE      .\pstchip.dat
+ C47.2                          SCH_BBOX       (920,90,940,100)
+ C47.2                          SCH_MIRROR     (1)
+ C47.2                          SCH_ORIENT     (270)
+ C47.2                          XY             (920,90)
+ C48.2                          PRIM_FILE      .\pstchip.dat
+ C48.2                          SCH_BBOX       (1140,90,1160,100)
+ C48.2                          SCH_MIRROR     (0)
+ C48.2                          SCH_ORIENT     (90)
+ C48.2                          XY             (1140,90)
+ C49.2                          PRIM_FILE      .\pstchip.dat
+ C49.2                          SCH_BBOX       (1110,110,1120,130)
+ C49.2                          SCH_MIRROR     (0)
+ C49.2                          SCH_ORIENT     (0)
+ C49.2                          XY             (1110,110)
+ C50.2                          PRIM_FILE      .\pstchip.dat
+ C50.2                          SCH_BBOX       (840,130,850,150)
+ C50.2                          SCH_MIRROR     (0)
+ C50.2                          SCH_ORIENT     (0)
+ C50.2                          XY             (840,130)
+ C51.2                          PRIM_FILE      .\pstchip.dat
+ C51.2                          SCH_BBOX       (1120,140,1130,160)
+ C51.2                          SCH_MIRROR     (0)
+ C51.2                          SCH_ORIENT     (180)
+ C51.2                          XY             (1120,140)
+ C52.2                          PRIM_FILE      .\pstchip.dat
+ C52.2                          SCH_BBOX       (1280,180,1300,190)
+ C52.2                          SCH_MIRROR     (0)
+ C52.2                          SCH_ORIENT     (90)
+ C52.2                          XY             (1280,180)
+ C53.2                          PRIM_FILE      .\pstchip.dat
+ C53.2                          SCH_BBOX       (1330,180,1350,190)
+ C53.2                          SCH_MIRROR     (0)
+ C53.2                          SCH_ORIENT     (90)
+ C53.2                          XY             (1330,180)
+ C54.2                          PRIM_FILE      .\pstchip.dat
+ C54.2                          SCH_BBOX       (1380,180,1400,190)
+ C54.2                          SCH_MIRROR     (0)
+ C54.2                          SCH_ORIENT     (90)
+ C54.2                          XY             (1380,180)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C55.2                          PRIM_FILE      .\pstchip.dat
+ C55.2                          SCH_BBOX       (930,230,940,250)
+ C55.2                          SCH_MIRROR     (0)
+ C55.2                          SCH_ORIENT     (0)
+ C55.2                          XY             (930,230)
+ C56.2                          PRIM_FILE      .\pstchip.dat
+ C56.2                          SCH_BBOX       (1470,220,1490,230)
+ C56.2                          SCH_MIRROR     (0)
+ C56.2                          SCH_ORIENT     (90)
+ C56.2                          XY             (1470,220)
+ IC1.23                         PRIM_FILE      .\pstchip.dat
+ IC1.23                         SCH_BBOX       (370,290,480,490)
+ IC1.23                         SCH_MIRROR     (0)
+ IC1.23                         SCH_ORIENT     (0)
+ IC1.23                         XY             (370,290)
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           SCH_BBOX       (70,120,100,150)
+ J1.2                           SCH_MIRROR     (0)
+ J1.2                           SCH_ORIENT     (180)
+ J1.2                           XY             (70,120)
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           SCH_BBOX       (460,170,500,190)
+ L2.2                           SCH_MIRROR     (0)
+ L2.2                           SCH_ORIENT     (0)
+ L2.2                           XY             (460,170)
+ L3.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           SCH_BBOX       (460,480,500,500)
+ L3.2                           SCH_MIRROR     (0)
+ L3.2                           SCH_ORIENT     (0)
+ L3.2                           XY             (460,480)
+ L4.2                           PRIM_FILE      .\pstchip.dat
+ L4.2                           SCH_BBOX       (450,770,490,790)
+ L4.2                           SCH_MIRROR     (0)
+ L4.2                           SCH_ORIENT     (0)
+ L4.2                           XY             (450,770)
+ L5.2                           PRIM_FILE      .\pstchip.dat
+ L5.2                           SCH_BBOX       (1230,150,1270,170)
+ L5.2                           SCH_MIRROR     (0)
+ L5.2                           SCH_ORIENT     (0)
+ L5.2                           XY             (1230,150)
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           SCH_BBOX       (80,200,100,220)
+ R4.2                           SCH_MIRROR     (1)
+ R4.2                           SCH_ORIENT     (270)
+ R4.2                           XY             (80,200)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           SCH_BBOX       (160,210,180,230)
+ R5.2                           SCH_MIRROR     (1)
+ R5.2                           SCH_ORIENT     (270)
+ R5.2                           XY             (160,210)
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           SCH_BBOX       (510,150,530,170)
+ R6.2                           SCH_MIRROR     (0)
+ R6.2                           SCH_ORIENT     (0)
+ R6.2                           XY             (510,150)
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           SCH_BBOX       (650,220,670,240)
+ R7.2                           SCH_MIRROR     (0)
+ R7.2                           SCH_ORIENT     (90)
+ R7.2                           XY             (650,220)
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           SCH_BBOX       (650,290,670,310)
+ R8.2                           SCH_MIRROR     (0)
+ R8.2                           SCH_ORIENT     (90)
+ R8.2                           XY             (650,290)
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           SCH_BBOX       (700,220,720,240)
+ R9.2                           SCH_MIRROR     (0)
+ R9.2                           SCH_ORIENT     (90)
+ R9.2                           XY             (700,220)
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R10.2                          SCH_BBOX       (50,110,70,130)
+ R10.2                          SCH_MIRROR     (0)
+ R10.2                          SCH_ORIENT     (0)
+ R10.2                          XY             (50,110)
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          SCH_BBOX       (50,420,70,440)
+ R11.2                          SCH_MIRROR     (0)
+ R11.2                          SCH_ORIENT     (0)
+ R11.2                          XY             (50,420)
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          SCH_BBOX       (510,460,530,480)
+ R12.2                          SCH_MIRROR     (0)
+ R12.2                          SCH_ORIENT     (0)
+ R12.2                          XY             (510,460)
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          SCH_BBOX       (80,510,100,530)
+ R13.2                          SCH_MIRROR     (1)
+ R13.2                          SCH_ORIENT     (270)
+ R13.2                          XY             (80,510)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          SCH_BBOX       (160,520,180,540)
+ R14.2                          SCH_MIRROR     (1)
+ R14.2                          SCH_ORIENT     (270)
+ R14.2                          XY             (160,520)
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          SCH_BBOX       (650,530,670,550)
+ R15.2                          SCH_MIRROR     (0)
+ R15.2                          SCH_ORIENT     (90)
+ R15.2                          XY             (650,530)
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          SCH_BBOX       (700,530,720,550)
+ R16.2                          SCH_MIRROR     (0)
+ R16.2                          SCH_ORIENT     (90)
+ R16.2                          XY             (700,530)
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          SCH_BBOX       (650,600,670,620)
+ R17.2                          SCH_MIRROR     (0)
+ R17.2                          SCH_ORIENT     (90)
+ R17.2                          XY             (650,600)
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          SCH_BBOX       (40,710,60,730)
+ R18.2                          SCH_MIRROR     (0)
+ R18.2                          SCH_ORIENT     (0)
+ R18.2                          XY             (40,710)
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          SCH_BBOX       (500,750,520,770)
+ R19.2                          SCH_MIRROR     (0)
+ R19.2                          SCH_ORIENT     (0)
+ R19.2                          XY             (500,750)
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          SCH_BBOX       (70,800,90,820)
+ R20.2                          SCH_MIRROR     (1)
+ R20.2                          SCH_ORIENT     (270)
+ R20.2                          XY             (70,800)
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          SCH_BBOX       (150,810,170,830)
+ R21.2                          SCH_MIRROR     (1)
+ R21.2                          SCH_ORIENT     (270)
+ R21.2                          XY             (150,810)
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          SCH_BBOX       (640,820,660,840)
+ R22.2                          SCH_MIRROR     (0)
+ R22.2                          SCH_ORIENT     (90)
+ R22.2                          XY             (640,820)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          SCH_BBOX       (820,90,840,110)
+ R23.2                          SCH_MIRROR     (0)
+ R23.2                          SCH_ORIENT     (0)
+ R23.2                          XY             (820,90)
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          SCH_BBOX       (1280,130,1300,150)
+ R24.2                          SCH_MIRROR     (0)
+ R24.2                          SCH_ORIENT     (0)
+ R24.2                          XY             (1280,130)
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          SCH_BBOX       (850,180,870,200)
+ R25.2                          SCH_MIRROR     (1)
+ R25.2                          SCH_ORIENT     (270)
+ R25.2                          XY             (850,180)
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          SCH_BBOX       (930,190,950,210)
+ R26.2                          SCH_MIRROR     (1)
+ R26.2                          SCH_ORIENT     (270)
+ R26.2                          XY             (930,190)
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          SCH_BBOX       (1420,200,1440,220)
+ R27.2                          SCH_MIRROR     (0)
+ R27.2                          SCH_ORIENT     (90)
+ R27.2                          XY             (1420,200)
+ R28.2                          PRIM_FILE      .\pstchip.dat
+ R28.2                          SCH_BBOX       (1420,250,1440,270)
+ R28.2                          SCH_MIRROR     (0)
+ R28.2                          SCH_ORIENT     (90)
+ R28.2                          XY             (1420,250)
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          SCH_BBOX       (1470,180,1490,200)
+ R29.2                          SCH_MIRROR     (0)
+ R29.2                          SCH_ORIENT     (90)
+ R29.2                          XY             (1470,180)
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U2.3                           SCH_BBOX       (80,90,220,220)
+ U2.3                           SCH_MIRROR     (0)
+ U2.3                           SCH_ORIENT     (0)
+ U2.3                           XY             (80,90)
+ U4.12                          PRIM_FILE      .\pstchip.dat
+ U4.12                          SCH_BBOX       (210,90,310,240)
+ U4.12                          SCH_MIRROR     (0)
+ U4.12                          SCH_ORIENT     (0)
+ U4.12                          XY             (210,90)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U5.12                          PRIM_FILE      .\pstchip.dat
+ U5.12                          SCH_BBOX       (210,400,310,550)
+ U5.12                          SCH_MIRROR     (0)
+ U5.12                          SCH_ORIENT     (0)
+ U5.12                          XY             (210,400)
+ U6.12                          PRIM_FILE      .\pstchip.dat
+ U6.12                          SCH_BBOX       (200,690,300,840)
+ U6.12                          SCH_MIRROR     (0)
+ U6.12                          SCH_ORIENT     (0)
+ U6.12                          XY             (200,690)
+ U7.12                          PRIM_FILE      .\pstchip.dat
+ U7.12                          SCH_BBOX       (980,70,1080,220)
+ U7.12                          SCH_MIRROR     (0)
+ U7.12                          SCH_ORIENT     (0)
+ U7.12                          XY             (980,70)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C10.1                          SCH_LOC        (360,170)
+ C10.2                          SCH_LOC        (350,170)
+ C11.1                          SCH_LOC        (340,140)
+ C11.2                          SCH_LOC        (350,140)
+ C12.1                          SCH_LOC        (160,260)
+ C12.2                          SCH_LOC        (170,260)
+ C13.1                          SCH_LOC        (70,160)
+ C13.2                          SCH_LOC        (80,160)
+ C14.1                          SCH_LOC        (520,210)
+ C14.2                          SCH_LOC        (520,200)
+ C15.1                          SCH_LOC        (570,210)
+ C15.2                          SCH_LOC        (570,200)
+ C16.1                          SCH_LOC        (620,210)
+ C16.2                          SCH_LOC        (620,200)
+ C17.1                          SCH_LOC        (710,270)
+ C17.2                          SCH_LOC        (710,260)
+ C18.1                          SCH_LOC        (160,120)
+ C18.2                          SCH_LOC        (160,110)
+ C19.1                          SCH_LOC        (380,120)
+ C19.2                          SCH_LOC        (380,110)
+ C20.1                          SCH_LOC        (110,110)
+ C20.2                          SCH_LOC        (110,100)
+ C21.1                          SCH_LOC        (480,110)
+ C21.2                          SCH_LOC        (480,100)
+ C22.1                          SCH_LOC        (110,420)
+ C22.2                          SCH_LOC        (110,410)
+ C23.1                          SCH_LOC        (480,420)
+ C23.2                          SCH_LOC        (480,410)
+ C24.1                          SCH_LOC        (160,430)
+ C24.2                          SCH_LOC        (160,420)
+ C25.1                          SCH_LOC        (380,430)
+ C25.2                          SCH_LOC        (380,420)
+ C26.1                          SCH_LOC        (340,450)
+ C26.2                          SCH_LOC        (350,450)
+ C27.1                          SCH_LOC        (70,470)
+ C27.2                          SCH_LOC        (80,470)
+ C28.1                          SCH_LOC        (360,480)
+ C28.2                          SCH_LOC        (350,480)
+ C29.1                          SCH_LOC        (520,520)
+ C29.2                          SCH_LOC        (520,510)
+ C30.1                          SCH_LOC        (570,520)
+ C30.2                          SCH_LOC        (570,510)
+ C31.1                          SCH_LOC        (620,520)
+ C31.2                          SCH_LOC        (620,510)
+ C32.1                          SCH_LOC        (160,570)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C32.2                          SCH_LOC        (170,570)
+ C33.1                          SCH_LOC        (710,580)
+ C33.2                          SCH_LOC        (710,570)
+ C34.1                          SCH_LOC        (100,710)
+ C34.2                          SCH_LOC        (100,700)
+ C35.1                          SCH_LOC        (470,710)
+ C35.2                          SCH_LOC        (470,700)
+ C36.1                          SCH_LOC        (150,720)
+ C36.2                          SCH_LOC        (150,710)
+ C37.1                          SCH_LOC        (370,720)
+ C37.2                          SCH_LOC        (370,710)
+ C38.1                          SCH_LOC        (330,740)
+ C38.2                          SCH_LOC        (340,740)
+ C39.1                          SCH_LOC        (60,760)
+ C39.2                          SCH_LOC        (70,760)
+ C40.1                          SCH_LOC        (350,770)
+ C40.2                          SCH_LOC        (340,770)
+ C41.1                          SCH_LOC        (510,810)
+ C41.2                          SCH_LOC        (510,800)
+ C42.1                          SCH_LOC        (560,810)
+ C42.2                          SCH_LOC        (560,800)
+ C43.1                          SCH_LOC        (610,810)
+ C43.2                          SCH_LOC        (610,800)
+ C44.1                          SCH_LOC        (150,860)
+ C44.2                          SCH_LOC        (160,860)
+ C45.1                          SCH_LOC        (880,90)
+ C45.2                          SCH_LOC        (880,80)
+ C46.1                          SCH_LOC        (1250,90)
+ C46.2                          SCH_LOC        (1250,80)
+ C47.1                          SCH_LOC        (930,100)
+ C47.2                          SCH_LOC        (930,90)
+ C48.1                          SCH_LOC        (1150,100)
+ C48.2                          SCH_LOC        (1150,90)
+ C49.1                          SCH_LOC        (1110,120)
+ C49.2                          SCH_LOC        (1120,120)
+ C50.1                          SCH_LOC        (840,140)
+ C50.2                          SCH_LOC        (850,140)
+ C51.1                          SCH_LOC        (1130,150)
+ C51.2                          SCH_LOC        (1120,150)
+ C52.1                          SCH_LOC        (1290,190)
+ C52.2                          SCH_LOC        (1290,180)
+ C53.1                          SCH_LOC        (1340,190)
+ C53.2                          SCH_LOC        (1340,180)
+ C54.1                          SCH_LOC        (1390,190)
+ C54.2                          SCH_LOC        (1390,180)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C55.1                          SCH_LOC        (930,240)
+ C55.2                          SCH_LOC        (940,240)
+ C56.1                          SCH_LOC        (1480,230)
+ C56.2                          SCH_LOC        (1480,220)
+ J1.1                           SCH_LOC        (100,140)
+ J1.2                           SCH_LOC        (100,130)
+ L2.1                           SCH_LOC        (460,190)
+ L2.2                           SCH_LOC        (500,190)
+ L3.1                           SCH_LOC        (460,500)
+ L3.2                           SCH_LOC        (500,500)
+ L4.1                           SCH_LOC        (450,790)
+ L4.2                           SCH_LOC        (490,790)
+ L5.1                           SCH_LOC        (1230,170)
+ L5.2                           SCH_LOC        (1270,170)
+ R4.1                           SCH_LOC        (90,220)
+ R4.2                           SCH_LOC        (90,200)
+ R5.1                           SCH_LOC        (170,230)
+ R5.2                           SCH_LOC        (170,210)
+ R6.1                           SCH_LOC        (510,160)
+ R6.2                           SCH_LOC        (530,160)
+ R7.1                           SCH_LOC        (660,240)
+ R7.2                           SCH_LOC        (660,220)
+ R8.1                           SCH_LOC        (660,310)
+ R8.2                           SCH_LOC        (660,290)
+ R9.1                           SCH_LOC        (710,240)
+ R9.2                           SCH_LOC        (710,220)
+ R10.1                          SCH_LOC        (50,120)
+ R10.2                          SCH_LOC        (70,120)
+ R11.1                          SCH_LOC        (50,430)
+ R11.2                          SCH_LOC        (70,430)
+ R12.1                          SCH_LOC        (510,470)
+ R12.2                          SCH_LOC        (530,470)
+ R13.1                          SCH_LOC        (90,530)
+ R13.2                          SCH_LOC        (90,510)
+ R14.1                          SCH_LOC        (170,540)
+ R14.2                          SCH_LOC        (170,520)
+ R15.1                          SCH_LOC        (660,550)
+ R15.2                          SCH_LOC        (660,530)
+ R16.1                          SCH_LOC        (710,550)
+ R16.2                          SCH_LOC        (710,530)
+ R17.1                          SCH_LOC        (660,620)
+ R17.2                          SCH_LOC        (660,600)
+ R18.1                          SCH_LOC        (40,720)
+ R18.2                          SCH_LOC        (60,720)
+ R19.1                          SCH_LOC        (500,760)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  21  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R19.2                          SCH_LOC        (520,760)
+ R20.1                          SCH_LOC        (80,820)
+ R20.2                          SCH_LOC        (80,800)
+ R21.1                          SCH_LOC        (160,830)
+ R21.2                          SCH_LOC        (160,810)
+ R22.1                          SCH_LOC        (650,840)
+ R22.2                          SCH_LOC        (650,820)
+ R23.1                          SCH_LOC        (820,100)
+ R23.2                          SCH_LOC        (840,100)
+ R24.1                          SCH_LOC        (1280,140)
+ R24.2                          SCH_LOC        (1300,140)
+ R25.1                          SCH_LOC        (860,200)
+ R25.2                          SCH_LOC        (860,180)
+ R26.1                          SCH_LOC        (940,210)
+ R26.2                          SCH_LOC        (940,190)
+ R27.1                          SCH_LOC        (1430,220)
+ R27.2                          SCH_LOC        (1430,200)
+ R28.1                          SCH_LOC        (1430,270)
+ R28.2                          SCH_LOC        (1430,250)
+ R29.1                          SCH_LOC        (1480,200)
+ R29.2                          SCH_LOC        (1480,180)
+ U2.4                           SCH_LOC        (220,210)
+ U2.6                           SCH_LOC        (80,110)
+ U4.1                           SCH_LOC        (310,170)
+ U4.2                           SCH_LOC        (310,140)
+ U4.3                           SCH_LOC        (310,230)
+ U4.4                           SCH_LOC        (310,210)
+ U4.5                           SCH_LOC        (310,160)
+ U4.6                           SCH_LOC        (210,170)
+ U4.7                           SCH_LOC        (210,140)
+ U4.8                           SCH_LOC        (210,100)
+ U4.9                           SCH_LOC        (210,120)
+ U4.10                          SCH_LOC        (310,190)
+ U4.11                          SCH_LOC        (310,120)
+ U4.12                          SCH_LOC        (310,100)
+ U4.13                          SCH_LOC        (210,210)
+ U4.14                          SCH_LOC        (210,200)
+ U5.1                           SCH_LOC        (310,480)
+ U5.2                           SCH_LOC        (310,450)
+ U5.3                           SCH_LOC        (310,540)
+ U5.4                           SCH_LOC        (310,520)
+ U5.5                           SCH_LOC        (310,470)
+ U5.6                           SCH_LOC        (210,480)
+ U5.7                           SCH_LOC        (210,450)
+ U5.8                           SCH_LOC        (210,410)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  22  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U5.9                           SCH_LOC        (210,430)
+ U5.10                          SCH_LOC        (310,500)
+ U5.11                          SCH_LOC        (310,430)
+ U5.12                          SCH_LOC        (310,410)
+ U5.13                          SCH_LOC        (210,520)
+ U5.14                          SCH_LOC        (210,510)
+ U6.1                           SCH_LOC        (300,770)
+ U6.2                           SCH_LOC        (300,740)
+ U6.3                           SCH_LOC        (300,830)
+ U6.4                           SCH_LOC        (300,810)
+ U6.5                           SCH_LOC        (300,760)
+ U6.6                           SCH_LOC        (200,770)
+ U6.7                           SCH_LOC        (200,740)
+ U6.8                           SCH_LOC        (200,700)
+ U6.9                           SCH_LOC        (200,720)
+ U6.10                          SCH_LOC        (300,790)
+ U6.11                          SCH_LOC        (300,720)
+ U6.12                          SCH_LOC        (300,700)
+ U6.13                          SCH_LOC        (200,810)
+ U6.14                          SCH_LOC        (200,800)
+ U7.1                           SCH_LOC        (1080,150)
+ U7.2                           SCH_LOC        (1080,120)
+ U7.3                           SCH_LOC        (1080,210)
+ U7.4                           SCH_LOC        (1080,190)
+ U7.5                           SCH_LOC        (1080,140)
+ U7.6                           SCH_LOC        (980,150)
+ U7.7                           SCH_LOC        (980,120)
+ U7.8                           SCH_LOC        (980,80)
+ U7.9                           SCH_LOC        (980,100)
+ U7.10                          SCH_LOC        (1080,170)
+ U7.11                          SCH_LOC        (1080,100)
+ U7.12                          SCH_LOC        (1080,80)
+ U7.13                          SCH_LOC        (980,190)
+ U7.14                          SCH_LOC        (980,180)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  23  |
+|------------------------------------------------------------------------------|
+|  D:/nyquist-sdr/USRP/allegro/usrp.brd                                        |
+|                                                    Fri Sep  4 15:32:08 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     214                                        |
+|       Comp definitions added:      24                                        |
+|       Components added      :      84                                        |
+|       Pin property added    :     214                                        |
+|       Slot property added   :     420                                        |
+|                                                                              |
+|   Total ECO changes reported:     956                                        |
+|------------------------------------------------------------------------------|

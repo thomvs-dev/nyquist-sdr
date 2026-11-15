@@ -50,16 +50,6 @@
       (LogFile "d:\nyquist-sdr\usrp\allegro\eco.txt")))
   (MPSSessionName "idk")
   (PartMRUSelector
-    (TPS7A5201RPSR
-      (FullPartName "TPS7A5201RPSR.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1788557212\TPS7A5201RPSR.OLB")
-      (DeviceIndex "0"))
-    (LT8645SIV#PBF
-      (FullPartName "LT8645SIV#PBF.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1788516084\LT8645SIV#PBF\CAPTURE\LT8645SIV#PBF.OLB")
-      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName
@@ -70,13 +60,23 @@
       (LibraryName
          "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (L
       (FullPartName "L.Normal")
       (LibraryName
          "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (TPS7A5201RPSR
+      (FullPartName "TPS7A5201RPSR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1788557212\TPS7A5201RPSR.OLB")
+      (DeviceIndex "0"))
+    (LT8645SIV#PBF
+      (FullPartName "LT8645SIV#PBF.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1788516084\LT8645SIV#PBF\CAPTURE\LT8645SIV#PBF.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -112,11 +112,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn")
-      (Path "Design Resources" "d:\nyquist-sdr\usrp\usrp.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "D:\nyquist-sdr\USRP ORCAD\usrp.dsn")
+      (Path "Design Resources" "D:\nyquist-sdr\USRP ORCAD\usrp.dsn"
+         "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" "D:\nyquist-sdr\USRP ORCAD\usrp.dsn"
+         "SCHEMATIC1" "PAGE2"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -126,32 +129,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 771")
-        (Scroll "-348 -8")
-        (Zoom "97")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 771")
+        (Scroll "-333 0")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
+      (Path "D:\NYQUIST-SDR\USRP ORCAD\USRP.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 771")
-        (Scroll "-264 -3")
-        (Zoom "73")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 771")
+        (Scroll "0 0")
+        (Zoom "144")
         (Occurrence "/"))
-      (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
+      (Path "D:\NYQUIST-SDR\USRP ORCAD\USRP.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 771")
-        (Scroll "-271 -8")
-        (Zoom "72")
-        (Occurrence "/"))
-      (Path "D:\NYQUIST-SDR\USRP\USRP.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE3")))
+      (Page "PAGE2")))
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\OrCADX_25.1\tools\capture\library\pspice"))
